@@ -6,6 +6,10 @@ Why this exists: LLMs can hallucinate. This project constrains answers to retrie
 
 --
 
+## Preview 
+
+<img width="1902" height="866" alt="Screenshot 2026-02-05 121259" src="https://github.com/user-attachments/assets/fc76048b-bcf8-4b55-a3ea-63cd40781201" />
+
 ## Quickstart
 
 1. Create and activate a Python 3.10+ virtual environment.
